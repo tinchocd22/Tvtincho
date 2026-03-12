@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 type="movie" group-title="estrenos" tvg-logo="https://iili.io/qoynoaj.jpg",Fin del Mundo 2
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://iili.io/qoynoaj.jpg",Fin del Mundo 2
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyxwvf.jpg",Despedida de Soltero
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/5167.mp4
@@ -10,6 +10,50 @@ http://ultrax.online:8080/movie/997666249tv/hypxsw64/9947.mkv
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/9949.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoy5ZJ9.jpg",La Pistola Desnuda 3
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/9948.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyYQwu.jpg",La Chica de Rojo
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/5194.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoy0nKx.jpg",El Secreto de mi Exito
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/5368.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyEO92.jpg",Un Principe en Nueva York
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/5249.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/l1dy3s.jpg",Fin de semana de Locura
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/5176.mp4
+#EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://iili.io/qoyW6s1.jpg",Cadena Perpetua
+http://ultrax.online:8080/movie/997791182tv/ph537l/4928.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoywA2n.jpg",Ace Ventura
+http://ultrax.online:8080/movie/997791182tv/ph537l/3729.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/byerlt.jpg",Ace Ventura 2
+http://ultrax.online:8080/movie/997791182tv/ph537l/3730.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://iili.io/qoyOHUF.jpg",Tornado
+http://ultrax.online:8080/movie/997791182tv/ph537l/4862.mp4
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://iili.io/qoykC8X.jpg",Día de la Independencia
+http://ultrax.online:8080/movie/997791182tv/ph537l/249298.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/qeiapp.jpg",Contracara
+http://ultrax.online:8080/movie/997791182tv/ph537l/71459.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoy8Qnf.jpg",Mentiroso Mentiroso
+http://ultrax.online:8080/movie/997791182tv/ph537l/5214.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://files.catbox.moe/vufrp7.jpg",La Momia
+http://ultrax.online:8080/movie/997791182tv/ph537l/4176.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://iili.io/qoygaTX.jpg",Matrix
+http://ultrax.online:8080/movie/997791182tv/ph537l/249310.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg",Equipo de Demolicion
+http://ultrax.online:8080/movie/986959040tv/s914eh/279706.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewimMrX2WfRfkKE0B3ZihKJey57.jpg",Codigo Venganza
+http://ultrax.online:8080/movie/986959040tv/s914eh/279648.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg",El Botín
+http://ultrax.online:8080/movie/986959040tv/s914eh/279351.mp4
+#EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg",El Protegido
+ttp://ultrax.online:8080/movie/986959040tv/s914eh/9407.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",Acto Encubierto
+http://ultrax.online:8080/movie/986959040tv/s914eh/280017.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg",Un Buen Ladron
+http://ultrax.online:8080/movie/986959040tv/s914eh/279984.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/original/yHQ57eEPpy6xnoilKeOE20G1SZR.jpg",La Mascara
+http://liontv.es:8080/movie/Julio2003/Julio2003/1591362.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyQo1n.jpg",Locademia de policia
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/214500.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyDYLN.jpg",Top Secret
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/293819.mkv
 
 
 
