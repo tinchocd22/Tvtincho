@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
-http://181.209.125.236:10000/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
-http://dplatino.net:80//live/Cotes737hdff/737373vevrv/81269.ts
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
-http://dplatino.net:80//live/Cotes737hdff/737373vevrv/81268.ts
-#EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV  
-http://207.246.114.254:25461/live/gabysports/gabysports/3094.m3u8
-
 #EXTINF:-1 type="movie" group-title="Estrenos" tvg-logo="https://iili.io/qoynoaj.jpg",Fin del Mundo 2
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyxwvf.jpg" tvg-year="1984" description="Un grupo de amigos organiza una despedida de soltero caótica llena de situaciones absurdas.",Despedida de Soltero
@@ -63,6 +54,7 @@ http://liontv.es:8080/movie/Julio2003/Julio2003/1591362.mkv
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/214500.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyDYLN.jpg",Top Secret
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/293819.mkv
+
 
 
 
