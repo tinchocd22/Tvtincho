@@ -11,7 +11,7 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3094.m3u8
 
 #EXTINF:-1 type="movie" group-title="Estrenos" tvg-logo="https://iili.io/qoynoaj.jpg",Fin del Mundo 2
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
-#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyxwvf.jpg",Despedida de Soltero
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyxwvf.jpg" tvg-year="1984" description="Un grupo de amigos organiza una despedida de soltero caótica llena de situaciones absurdas.",Despedida de Soltero
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/5167.mp4
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyTVEP.jpg",La Pistola Desnuda
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/9947.mkv
@@ -63,6 +63,7 @@ http://liontv.es:8080/movie/Julio2003/Julio2003/1591362.mkv
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/214500.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyDYLN.jpg",Top Secret
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/293819.mkv
+
 
 
 
