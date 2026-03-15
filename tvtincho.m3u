@@ -57,9 +57,9 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9689
 #EXTINF:-1 tvg-id="HBO Extreme" tvg-logo="https://iili.io/qoy2pe9.png",HBO Extreme 
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9698
 
-#EXTINF:-1 type="movie" group-title="Estrenos" tvg-logo="https://iili.io/qoynoaj.jpg",Fin del Mundo 2
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://iili.io/qoynoaj.jpg",Fin del Mundo 2
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
-#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyxwvf.jpg" tvg-year="1984" description="Un grupo de amigos organiza una despedida de soltero caótica llena de situaciones absurdas.",Despedida de Soltero
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyxwvf.jpg",Despedida de Soltero
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/5167.mp4
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyTVEP.jpg",La Pistola Desnuda
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/9947.mkv
@@ -93,17 +93,17 @@ http://ultrax.online:8080/movie/997791182tv/ph537l/5214.mp4
 http://ultrax.online:8080/movie/997791182tv/ph537l/4176.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://iili.io/qoygaTX.jpg",Matrix
 http://ultrax.online:8080/movie/997791182tv/ph537l/249310.mkv
-#EXTINF:-1 type="movie" group-title="Estrenos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg",Equipo de Demolicion
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg",Equipo de Demolicion
 http://ultrax.online:8080/movie/986959040tv/s914eh/279706.mp4
-#EXTINF:-1 type="movie" group-title="Estrenos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewimMrX2WfRfkKE0B3ZihKJey57.jpg",Codigo Venganza
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewimMrX2WfRfkKE0B3ZihKJey57.jpg",Codigo Venganza
 http://ultrax.online:8080/movie/986959040tv/s914eh/279648.mkv
-#EXTINF:-1 type="movie" group-title="Estrenos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg",El Botín
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg",El Botín
 http://ultrax.online:8080/movie/986959040tv/s914eh/279351.mp4
 #EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg",El Protegido
 ttp://ultrax.online:8080/movie/986959040tv/s914eh/9407.mp4
-#EXTINF:-1 type="movie" group-title="Estrenos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",Acto Encubierto
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",Acto Encubierto
 http://ultrax.online:8080/movie/986959040tv/s914eh/280017.mp4
-#EXTINF:-1 type="movie" group-title="Estrenos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg",Un Buen Ladron
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg",Un Buen Ladron
 http://ultrax.online:8080/movie/986959040tv/s914eh/279984.mp4
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/original/yHQ57eEPpy6xnoilKeOE20G1SZR.jpg",La Mascara
 http://liontv.es:8080/movie/Julio2003/Julio2003/1591362.mkv
@@ -111,7 +111,48 @@ http://liontv.es:8080/movie/Julio2003/Julio2003/1591362.mkv
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/214500.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyDYLN.jpg",Top Secret
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/293819.mkv
-
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://iili.io/qoypddX.jpg",Esperando la Carroza
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/292544.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qx991Og.jpg",Locademia de policia 2
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/214499.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/0okdqy.jpg",Quisiera ser Grande
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/292140.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/x7ru6u.jpg",Scary Movie
+http://matrivagoweb.xyz:8080/movie/993372393/142536/293423.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qx936HN.jpg",Loca Academia de Piloto
+http://matrivagoweb.xyz:8080/movie/993372393/142536/292741.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qx9fQx1.jpg",Loca Academia de Piloto 2
+http://matrivagoweb.xyz:8080/movie/993372393/142536/292742.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInd69p.jpg",Tonto y Retonto
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7311.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInTvF2.jpg",Las Vacaciones de Mrs Bean
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7431.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInk6b9.jpg",Adorable Criatura
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7464.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInsUNf.jpg",Viaje Censurado
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7475.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInpQu1.jpg",Ciego, Sordo y Locos
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7483.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://iili.io/qT8Jqg4.jpg",War Machine
+http://dplatino.net:80/movie/usuariocanales655/GSroWNZWux/455965.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg",El Guardian
+http://dplatino.net:80/movie/credito3geotv/car26octtv/453940.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuIP7lRgzSjaZ4CT33WHfctLARs.jpg",El Engaño
+http://tvpromas.com:2082/movie/56965916024faceztv/281023ztv/135329.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://mundo2.pro:80/images/c03fe3b4da5563b37b6158700ec0aea4.jpg",We Bury the Dead
+http://tvpromas.com:2082/movie/56965916024faceztv/281023ztv/135326.mkv
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8l85vxFe9J1uEvK9qyIMBlYJNv.jpg",Nueve Reinas
+http://planettvweb.com:8091/movie/silviah/silvia24/80544.mp4
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vimbRR5XdkMj7CqnzVN92Cla8jN.jpg",Relatos Salvajes
+http://planettvweb.com:8091/movie/silviah/silvia24/80546.mkv
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ3ZNM7UnxUcfITM8VWwujYHY1n.jpg",Cama Redonda
+http://planettvweb.com:8091/movie/silviah/silvia24/80480.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkmzt08vghSGlLYuqJpx4e2moRX.jpg",Ruta de escape
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147548.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",Solo Mio
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147561.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",Redux Redux
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147493.mkv
 
 
 
