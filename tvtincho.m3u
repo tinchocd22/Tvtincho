@@ -119,11 +119,11 @@ http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/518916.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/be1b2c72f76b1e7321f2b35bfca0c566.jpg",Contra la cuerdas
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/519612.mp4
 
-#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/2140a13f14e2ed1d570bbda126d96582.jpg",Una amistad, un asesinato S01 E01
+#EXTINF:-1 tvg-name="Una Amistad 1x01" type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/2140a13f14e2ed1d570bbda126d96582.jpg",Una amistad, un asesinato S01 E01
 http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514359.mp4
-#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/39d0a314c8ab13ed9213fc64d63b456f.jpg",Una amistad, un asesinato S01 E02
+#EXTINF:-1 tvg-name="Una Amistad 1x02 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/39d0a314c8ab13ed9213fc64d63b456f.jpg",Una amistad, un asesinato S01 E02
 http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514360.mp4
-#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/530080303003383cf713abb5c326a760.jpg",Una amistad, un asesinato S01 E03
+#EXTINF:-1 tvg-name="Una Amistad 1x03 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/530080303003383cf713abb5c326a760.jpg",Una amistad, un asesinato S01 E03
 http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514361.mp4
 
 
