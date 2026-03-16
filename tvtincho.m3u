@@ -96,6 +96,39 @@ http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147548.mp4
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147561.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",Redux Redux
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147493.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/f98205122d90d9c04afa693c14c14fd7.jpg",Lucy Letby
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/490479.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/ac3f9eab490baab95d9ece6bef9e009b.jpg",Silent Hill
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/501755.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/546991b11bc972d9c2e020645c8ace2a.jpg",Primate
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/502510.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/cd978583b81ea1cb6ee5e2c6f1b0a410.jpg",Exterminio: El templo de huesos
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/502931.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/1835a641861e7d7e1550f5d13a8c4d29.jpg",Cortafuego
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/505146.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/d3c35e59e27f7a281eb5ae720c1c2921.jpg",Sesión Fatal
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/514013.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/af97e5de529fc94c666b80d0793d3854.jpg",En un instante
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/514110.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/2f172c58e3cd8d50d44434823a445ec6.jpg",Acusada
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/514111.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/f2b89b12caa7117c01d11b4ce09724f9.jpg",Caminos del crimen
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/516262.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/b872365fdc6859215b664e33f88d5f61.jpg",Buena Suerte! No mueras
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/518916.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/be1b2c72f76b1e7321f2b35bfca0c566.jpg",Contra la cuerdas
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/519612.mp4
+
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/2140a13f14e2ed1d570bbda126d96582.jpg",Una amistad, un asesinato S01 E01
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514359.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/39d0a314c8ab13ed9213fc64d63b456f.jpg",Una amistad, un asesinato S01 E02
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514360.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/530080303003383cf713abb5c326a760.jpg",Una amistad, un asesinato S01 E03
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514361.mp4
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
