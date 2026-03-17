@@ -37,13 +37,11 @@ http://ultrax.online:8080/movie/997791182tv/ph537l/4176.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://iili.io/qoygaTX.jpg",Matrix
 http://ultrax.online:8080/movie/997791182tv/ph537l/249310.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/d98b3f56161f57638052aeaaae5841fb.jpg",La Roca
-http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/284005.mkv
-#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/62a1c95c96c1df0ccbe68908be1caedd.jpg",21 Blackjack
-http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/283800.mkv
-#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/6355b671cd923eaa3fdf0cd8bc874fc6.jpg",Depredador
-http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/284822.mkv
+http://ultrax.online:8080/movie/986959040tv/s914eh/3682.mkv
+#EXTINF:-1 type="movie" group-title="Drama" tvg-logo="http://redworld.pro:8880/images/62a1c95c96c1df0ccbe68908be1caedd.jpg",21 Blackjack
+http://ultrax.online:8080/movie/986959040tv/s914eh/6169.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/6fa52b2fafa69cac792b71702b5f9924.jpg",Depredador 2
-http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/284823.mkv
+http://ultrax.online:8080/movie/986959040tv/s914eh/8968.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg",Equipo de Demolicion
 http://ultrax.online:8080/movie/986959040tv/s914eh/279706.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewimMrX2WfRfkKE0B3ZihKJey57.jpg",Codigo Venganza
@@ -152,23 +150,18 @@ http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82274.mkv
 #EXTINF:-1 type="serie" group-title="Drama" tvg-logo="https://iili.io/qII5dla.jpg",La Doña S01 E01
 https://vkvideo.ru/video848029978_456253707
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
-http://lunar.pm:8080/2055735047/PtuUrexwIC/115172
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
-http://lunar.pm:8080/2055735047/PtuUrexwIC/1223407
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157615
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122339
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157621
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122313
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157612
 #EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://iili.io/qomDpp4.png", Gran Hermano
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184317
 #EXTINF:-1 tvg-id="Volver" tvg-logo="https://files.catbox.moe/xmtxda.jpg",Volver
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122403
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157581
 #EXTINF:-1 tvg-id="Friends" tvg-logo="https://iili.io/qomypK7.png",Friends 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166086
 #EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://iili.io/qopd7iQ.png",Los tres Chiflados
@@ -178,19 +171,19 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178834
 #EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166307
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122345
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157562
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122394
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157585
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122342
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157558
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122343
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157559
 #EXTINF:-1 tvg-id="Espn 3" tvg-logo="https://iili.io/qopagTu.png",Espn 3 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122344
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157560
 #EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://iili.io/qop0tvS.png",Espn 4
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157561
 #EXTINF:-1 tvg-id="TyC Sport" tvg-logo="https://iili.io/qopV6rJ.png",TyC Sport
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122400
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157583
 #EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1 
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122350
 #EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://iili.io/qopwQWB.png",Fox Sport 2 
@@ -204,15 +197,15 @@ http://matrivagoweb.xyz:8080/5322637/123456/369754
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://iili.io/qopiEcx.png",History Channel
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122365
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122359
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9666
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://iili.io/qopt1p4.png",HBO 2 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122360
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9673
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://iili.io/qoppQfI.png",HBO Plus
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9685
 #EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://iili.io/qoyJ42I.png",HBO Pop
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9689
 #EXTINF:-1 tvg-id="HBO Extreme" tvg-logo="https://iili.io/qoy2pe9.png",HBO Extreme 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122364
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9698
 #EXTINF:-1 tvg-id="Comedias 2" tvg-logo="https://i.postimg.cc/66ZCM99D/CINE-COMEDIA-2.png",Comedias 2
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164960
 #EXTINF:-1 tvg-id="Comedias 3" tvg-logo="https://i.postimg.cc/5NHT7QXP/Comedia-3-Proyecto-X.png",Comedias 3
