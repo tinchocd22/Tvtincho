@@ -142,6 +142,8 @@ http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/519612.mp4
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147762.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",Scream 7
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147763.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/57a0f2b52b75688b03267330e6072b3d.jpg",Una noche en el Roxbury
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/263418.mkv
 
 #EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/2140a13f14e2ed1d570bbda126d96582.jpg",Una amistad Un Asesinato S01 E01
 http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514359.mp4
@@ -177,6 +179,42 @@ http://ultrax.online:8080/series/986959040tv/s914eh/279288.mp4
 http://ultrax.online:8080/series/986959040tv/s914eh/279289.mp4
 #EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5tK8Io2EpraZWweHmW0ShGJCDw.jpg",Joven Secuestrada S01 E06
 http://ultrax.online:8080/series/986959040tv/s914eh/279290.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eODG8V5FOFNFaY9aJjAtuXUp742.jpg",Scarpetta S01 E01
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147784.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eODG8V5FOFNFaY9aJjAtuXUp742.jpg",Scarpetta S01 E02
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147785.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eODG8V5FOFNFaY9aJjAtuXUp742.jpg",Scarpetta S01 E03
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147786.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eODG8V5FOFNFaY9aJjAtuXUp742.jpg",Scarpetta S01 E04
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147787.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eODG8V5FOFNFaY9aJjAtuXUp742.jpg",Scarpetta S01 E05
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147788.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eODG8V5FOFNFaY9aJjAtuXUp742.jpg",Scarpetta S01 E06
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147789.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eODG8V5FOFNFaY9aJjAtuXUp742.jpg",Scarpetta S01 E07
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147790.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eODG8V5FOFNFaY9aJjAtuXUp742.jpg",Scarpetta S01 E08
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147791.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E01
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147621.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E02
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147622.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E03
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147623.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E04
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147624.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E05
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147625.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E06
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147626.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E07
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147627.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E08
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147628.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E09
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147629.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",Spartacus:S01 E10
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147630.mkv
 #EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIzSsyW2DAxIssSv3Qk6qd8FCkW.jpg",Hijack S01 E01
 http://ultrax.online:8080/series/986959040tv/s914eh/279318.mp4
 #EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIzSsyW2DAxIssSv3Qk6qd8FCkW.jpg",Hijack S01 E02
@@ -205,9 +243,46 @@ http://ultrax.online:8080/series/986959040tv/s914eh/280001.mp4
 http://ultrax.online:8080/series/986959040tv/s914eh/280048.mp4
 #EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siwv9ppq5RB0LC0JQHsZ7TNFtuo.jpg",Hijack S02 E07
 http://ultrax.online:8080/series/986959040tv/s914eh/280190.mp4
-
-
-
+#EXTINF:-1 type="serie" group-title="Terror" tvg-logo="http://redworld.pro:8880/images/fd7fb3d2395d587f809e4a285e51a47a.jpg",Bienvenidos a Derry S01 E01
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/451768.mp4
+#EXTINF:-1 type="serie" group-title="Terror" tvg-logo="http://redworld.pro:8880/images/fd7fb3d2395d587f809e4a285e51a47a.jpg",Bienvenidos a Derry S01 E02
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/452446.mp4
+#EXTINF:-1 type="serie" group-title="Terror" tvg-logo="http://redworld.pro:8880/images/fd7fb3d2395d587f809e4a285e51a47a.jpg",Bienvenidos a Derry S01 E03
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/454038.mp4
+#EXTINF:-1 type="serie" group-title="Terror" tvg-logo="http://redworld.pro:8880/images/fd7fb3d2395d587f809e4a285e51a47a.jpg",Bienvenidos a Derry S01 E04
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/455004.mp4
+#EXTINF:-1 type="serie" group-title="Terror" tvg-logo="http://redworld.pro:8880/images/fd7fb3d2395d587f809e4a285e51a47a.jpg",Bienvenidos a Derry S01 E05
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/456175.mp4
+#EXTINF:-1 type="serie" group-title="Terror" tvg-logo="http://redworld.pro:8880/images/fd7fb3d2395d587f809e4a285e51a47a.jpg",Bienvenidos a Derry S01 E06
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/456747.mp4
+#EXTINF:-1 type="serie" group-title="Terror" tvg-logo="http://redworld.pro:8880/images/fd7fb3d2395d587f809e4a285e51a47a.jpg",Bienvenidos a Derry S01 E07
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/457280.mp4
+#EXTINF:-1 type="serie" group-title="Terror" tvg-logo="http://redworld.pro:8880/images/fd7fb3d2395d587f809e4a285e51a47a.jpg",Bienvenidos a Derry S01 E08
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/457746.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/e7d7d3c1826d16172d2b39b438538e9e.jpg",El Caballero de los Siete Reinos S01 E01
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/464953.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/e7d7d3c1826d16172d2b39b438538e9e.jpg",El Caballero de los Siete Reinos S01 E02
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/479168.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/e7d7d3c1826d16172d2b39b438538e9e.jpg",El Caballero de los Siete Reinos S01 E03
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/490029.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/e7d7d3c1826d16172d2b39b438538e9e.jpg",El Caballero de los Siete Reinos S01 E04
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/495115.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/e7d7d3c1826d16172d2b39b438538e9e.jpg",El Caballero de los Siete Reinos S01 E05
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/502884.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/e7d7d3c1826d16172d2b39b438538e9e.jpg",El Caballero de los Siete Reinos S01 E06
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/513286.mp4
+#EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/dbc26e7c4c8a721d7fc1e37d20fc37c0.jpg",Bookie S01 E01
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/501526.mp4
+#EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/dbc26e7c4c8a721d7fc1e37d20fc37c0.jpg",Bookie S01 E02
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/501527.mp4
+#EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/dbc26e7c4c8a721d7fc1e37d20fc37c0.jpg",Bookie S01 E03
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/501528.mp4
+#EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/dbc26e7c4c8a721d7fc1e37d20fc37c0.jpg",Bookie S01 E04
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/501529.mp4
+#EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/dbc26e7c4c8a721d7fc1e37d20fc37c0.jpg",Bookie S01 E05
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/501530.mp4
+#EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/dbc26e7c4c8a721d7fc1e37d20fc37c0.jpg",Bookie S01 E06
+http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/501531.mp4
 
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
@@ -221,7 +296,7 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157621
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164869
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122339
+http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/490460
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157612
 #EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://iili.io/qomDpp4.png", Gran Hermano
