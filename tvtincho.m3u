@@ -30,10 +30,18 @@ http://ultrax.online:8080/movie/997791182tv/ph537l/4862.mp4
 http://ultrax.online:8080/movie/997791182tv/ph537l/249298.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/qeiapp.jpg",Contracara
 http://ultrax.online:8080/movie/997791182tv/ph537l/71459.mp4
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/4150764cbf988dc351763623ef948e63.jpg",Rescatando al soldado Ryan
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298231.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/b6489ff9c555e33456d24d28bf260b76.jpg",Máxima velocidad
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298232.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoy8Qnf.jpg",Mentiroso Mentiroso
 http://ultrax.online:8080/movie/997791182tv/ph537l/5214.mp4
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://files.catbox.moe/vufrp7.jpg",La Momia
 http://ultrax.online:8080/movie/997791182tv/ph537l/4176.mkv
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/21f41e754e0cb63c9e1f186fa60c8b1d.jpg",Titanic
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298234.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/5d78a7061c309828c967c675555c29da.jpg",Apolo 13
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298207.mp4
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://iili.io/qoygaTX.jpg",Matrix
 http://ultrax.online:8080/movie/997791182tv/ph537l/249310.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/d98b3f56161f57638052aeaaae5841fb.jpg",La Roca
@@ -147,6 +155,50 @@ http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82272.mkv
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82273.mkv
 #EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E08
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82274.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMrwN2qHR3mdhu7RG0fMmMUcYRe.jpg",Joven Secuestrada S01 E01
+http://ultrax.online:8080/series/986959040tv/s914eh/279285.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5tK8Io2EpraZWweHmW0ShGJCDw.jpg",Joven Secuestrada S01 E02
+http://ultrax.online:8080/series/986959040tv/s914eh/279286.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4RxH19G9p7CjmOdpn5AYwOQwoD.jpg",Joven Secuestrada S01 E03
+http://ultrax.online:8080/series/986959040tv/s914eh/279287.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mHbPurja4oaKjg3l2EwevA2DHY.jpg",Joven Secuestrada S01 E04
+http://ultrax.online:8080/series/986959040tv/s914eh/279288.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqItbUS9NNGu7nqPUZyf20tsUdr.jpg",Joven Secuestrada S01 E05
+http://ultrax.online:8080/series/986959040tv/s914eh/279289.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5tK8Io2EpraZWweHmW0ShGJCDw.jpg",Joven Secuestrada S01 E06
+http://ultrax.online:8080/series/986959040tv/s914eh/279290.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIzSsyW2DAxIssSv3Qk6qd8FCkW.jpg",Hijack S01 E01
+http://ultrax.online:8080/series/986959040tv/s914eh/279318.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIzSsyW2DAxIssSv3Qk6qd8FCkW.jpg",Hijack S01 E02
+http://ultrax.online:8080/series/986959040tv/s914eh/279319.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIzSsyW2DAxIssSv3Qk6qd8FCkW.jpg",Hijack S01 E03
+http://ultrax.online:8080/series/986959040tv/s914eh/279320.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIzSsyW2DAxIssSv3Qk6qd8FCkW.jpg",Hijack S01 E04
+http://ultrax.online:8080/series/986959040tv/s914eh/279321.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIzSsyW2DAxIssSv3Qk6qd8FCkW.jpg",Hijack S01 E05
+http://ultrax.online:8080/series/986959040tv/s914eh/279322.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIzSsyW2DAxIssSv3Qk6qd8FCkW.jpg",Hijack S01 E06
+http://ultrax.online:8080/series/986959040tv/s914eh/279323.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIzSsyW2DAxIssSv3Qk6qd8FCkW.jpg",Hijack S01 E07
+http://ultrax.online:8080/series/986959040tv/s914eh/279324.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siwv9ppq5RB0LC0JQHsZ7TNFtuo.jpg",Hijack S02 E01
+http://ultrax.online:8080/series/986959040tv/s914eh/279325.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siwv9ppq5RB0LC0JQHsZ7TNFtuo.jpg",Hijack S02 E02
+http://ultrax.online:8080/series/986959040tv/s914eh/279561.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siwv9ppq5RB0LC0JQHsZ7TNFtuo.jpg",Hijack S02 E03
+http://ultrax.online:8080/series/986959040tv/s914eh/279900.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siwv9ppq5RB0LC0JQHsZ7TNFtuo.jpg",Hijack S02 E04
+http://ultrax.online:8080/series/986959040tv/s914eh/279901.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siwv9ppq5RB0LC0JQHsZ7TNFtuo.jpg",Hijack S02 E05
+http://ultrax.online:8080/series/986959040tv/s914eh/280001.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siwv9ppq5RB0LC0JQHsZ7TNFtuo.jpg",Hijack S02 E06
+http://ultrax.online:8080/series/986959040tv/s914eh/280048.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siwv9ppq5RB0LC0JQHsZ7TNFtuo.jpg",Hijack S02 E07
+http://ultrax.online:8080/series/986959040tv/s914eh/280190.mp4
+
+
+
+
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
@@ -175,13 +227,13 @@ http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/403686.ts
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://iili.io/qopF7sf.png",Los Simpson
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178834
 #EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166307
-#EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio Nuevos
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166308
+http://tv.diablotv.net:8080/wromero/ePrQdP8ty3/166307
+#EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio 
+http://tv.diablotv.net:8080/wromero/ePrQdP8ty3/166308
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157562
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
-http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
+http://tv.diablotv.net:8080/wromero/ePrQdP8ty3/157562
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122345
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
