@@ -20,6 +20,12 @@ http://ultrax.online:8080/movie/997666249tv/hypxsw64/5249.mp4
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/5176.mp4
 #EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://iili.io/qoyW6s1.jpg",Cadena Perpetua
 http://ultrax.online:8080/movie/997791182tv/ph537l/4928.mkv
+#EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2jzFfXTXnZ7oytCiIEieSXDb1b.jpg",¿Conoces a Joe Black?
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/146228.mkv
+#EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",El lobo de Wall Street
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/134817.mkv
+#EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWYpiavXzJnL1Pwafbzhn57HSk2.jpg",Fenomeno
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/132825.mp4
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoywA2n.jpg",Ace Ventura
 http://ultrax.online:8080/movie/997791182tv/ph537l/3729.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/byerlt.jpg",Ace Ventura 2
@@ -132,6 +138,10 @@ http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/516262.mp4
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/518916.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/be1b2c72f76b1e7321f2b35bfca0c566.jpg",Contra la cuerdas
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/519612.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5THjBLt4vE9lAnLODqXFf5qEwxa.jpg",Hazte la muerta
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147762.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",Scream 7
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147763.mkv
 
 #EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/2140a13f14e2ed1d570bbda126d96582.jpg",Una amistad Un Asesinato S01 E01
 http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514359.mp4
