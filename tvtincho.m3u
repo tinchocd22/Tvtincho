@@ -125,11 +125,11 @@ http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/518916.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/be1b2c72f76b1e7321f2b35bfca0c566.jpg",Contra la cuerdas
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/519612.mp4
 
-#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/2140a13f14e2ed1d570bbda126d96582.jpg",Una amistad, un asesinato S01 E01
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/2140a13f14e2ed1d570bbda126d96582.jpg",Una amistad Un Asesinato S01 E01
 http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514359.mp4
-#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/39d0a314c8ab13ed9213fc64d63b456f.jpg",Una amistad, un asesinato S01 E02
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/39d0a314c8ab13ed9213fc64d63b456f.jpg",Una amistad Un Asesinato S01 E02
 http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514360.mp4
-#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/530080303003383cf713abb5c326a760.jpg",Una amistad, un asesinato S01 E03
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/530080303003383cf713abb5c326a760.jpg",Una amistad Un Asesinato S01 E03
 http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/514361.mp4
 #EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E01
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82267.mkv
@@ -147,15 +147,19 @@ http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82272.mkv
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82273.mkv
 #EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E08
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82274.mkv
-#EXTINF:-1 type="serie" group-title="Drama" tvg-logo="https://iili.io/qII5dla.jpg",La Doña S01 E01
-https://vkvideo.ru/video848029978_456253707
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164870 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157615
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157621
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164869
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
+http://lunar.pm:8080/2055735047/PtuUrexwIC/122339
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157612
 #EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://iili.io/qomDpp4.png", Gran Hermano
@@ -164,16 +168,28 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184317
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157581
 #EXTINF:-1 tvg-id="Friends" tvg-logo="https://iili.io/qomypK7.png",Friends 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166086
+#EXTINF:-1 tvg-id="Friends" tvg-logo="https://iili.io/qomypK7.png",Friends 
+http://ultrax.online:8080/997666249tv/hypxsw64/250548
 #EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://iili.io/qopd7iQ.png",Los tres Chiflados
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/177132
+http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/403686.ts
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://iili.io/qopF7sf.png",Los Simpson
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178834
 #EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166307
+#EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio Nuevos
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166308
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157562
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
+http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
+http://lunar.pm:8080/2055735047/PtuUrexwIC/122345
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157585
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
+http://redworld.pro:8880/luis738049207/98756479239/327919
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
+http://lunar.pm:8080/2055735047/PtuUrexwIC/122394
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157558
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
