@@ -284,7 +284,8 @@ http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/501530.mp4
 #EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/dbc26e7c4c8a721d7fc1e37d20fc37c0.jpg",Bookie S01 E06
 http://redworld.pro:8880/series/PebRnV87MJhn/XPgex4XmutJe/501531.mp4
 
-
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+http://181.209.125.236:10000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
