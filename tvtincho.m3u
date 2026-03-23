@@ -68,8 +68,28 @@ http://ultrax.online:8080/movie/997791182tv/ph537l/4176.mkv
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298234.mp4
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/5d78a7061c309828c967c675555c29da.jpg",Apolo 13
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298207.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg" ,Piratas del Caribe: La maldicion de la Perla Negra
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1374238.mkv
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/473105ca08ed2a8f14da074b3beb2a23.jpg" ,Indiana Jones: En busca del Arca Perdida 
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/267274.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/58adc7cdc9f6806a34d9f2b30b4a3949.jpg" ,Indiana Jones 3: La Última Cruzada 
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/267277.mkv
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/35ecf456a6c7c2199b9fa7f6bce42ad4.jpg" ,Indiana Jones 4: El reino de la Calavera de Cristal 
+http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/267275.mkv
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg" ,Piratas del Caribe: En el Fin del Mundo 
+http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/4034.mkv
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egrTG3M5KhO5E6nfgGLtUYeuERn.jpg" ,Regreso al futuro 
+http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/270286.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7vYpsBMKZ3AwhBlc7wwGGMPlRA.jpg" ,Volver al futuro III 
+http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/270285.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTiQdzBOP5biNvzvrSPAvPxiSKH.jpg" ,Volver al futuro II 
+http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/270284.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAYdzYUUOWeXpnFY6QsE1T2ls1m.jpg" ,Náufrago 
+http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/4924.mp4
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://iili.io/qoygaTX.jpg",Matrix
 http://ultrax.online:8080/movie/997791182tv/ph537l/249310.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mppbXmwNHddMmVCCdhxBzSgaVl.jpg",Depredador
+http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/8969.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/d98b3f56161f57638052aeaaae5841fb.jpg",La Roca
 http://ultrax.online:8080/movie/986959040tv/s914eh/3682.mkv
 #EXTINF:-1 type="movie" group-title="Drama" tvg-logo="http://redworld.pro:8880/images/62a1c95c96c1df0ccbe68908be1caedd.jpg",21 Blackjack
@@ -130,19 +150,19 @@ http://planettvweb.com:8091/movie/silviah/silvia24/80544.mp4
 http://planettvweb.com:8091/movie/silviah/silvia24/80546.mkv
 #EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ3ZNM7UnxUcfITM8VWwujYHY1n.jpg",Cama Redonda
 http://planettvweb.com:8091/movie/silviah/silvia24/80480.mp4
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljCjFcVeFq6vkAMYQLieVbTLz0B.jpg" ,El Manosanta está Cargado (1987)
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljCjFcVeFq6vkAMYQLieVbTLz0B.jpg" ,El Manosanta está Cargado 
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/80463.mp4
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7asQbYjP3iAICg7CRKbis0MIcf.jpg" ,El hijo de la novia (2001)
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7asQbYjP3iAICg7CRKbis0MIcf.jpg" ,El hijo de la novia 
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/80462.mp4
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soUSqTZKkV26SNs4gH5N4ftqF9W.jpg" ,Cien veces no debo (1990)
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soUSqTZKkV26SNs4gH5N4ftqF9W.jpg" ,Cien veces no debo 
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/80453.mp4
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybMKaNMoBie2ebXf4TIz1Sh70Iq.jpg" ,Un novio para mi mujer (2008)
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybMKaNMoBie2ebXf4TIz1Sh70Iq.jpg" ,Un novio para mi mujer 
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/80506.mp4
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aol93ghyDZqgc1s9WnlQlUmwHp3.jpg" ,Un cuento chino (2011)
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aol93ghyDZqgc1s9WnlQlUmwHp3.jpg" ,Un cuento chino 
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/80505.mp4
 #EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKEmHfdhAaeqkQSHUVdrYJywJXz.jpg" ,Encuentros muy cercanos con señoras de cualquier tipo (1978)
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/80467.mp4
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhFJeYVL9Er6iCrnW68csaBTxnj.jpg" ,Los fierecillos se divierten (1983)
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhFJeYVL9Er6iCrnW68csaBTxnj.jpg" ,Los fierecillos se divierten 
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/80481.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkmzt08vghSGlLYuqJpx4e2moRX.jpg",Ruta de escape
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147548.mp4
@@ -164,8 +184,26 @@ http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/505146.mp4
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/514013.mp4
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/57a0f2b52b75688b03267330e6072b3d.jpg",Una noche en el Roxbury
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/263418.mkv
-#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Hy8k6ZfZiY08PfTI0vvmQFS0lq.jpg" ,La caja
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://iili.io/qg5XJqu.jpg" ,La caja
 http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1644667.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg" ,Dejame salir 
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1653285.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ty3sdd54GXxhd2SmJdJL1hDRpn.jpg" ,Doble traición
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1411393.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNG9zsB29ZjL3NDlofGr49q2El0.jpg" ,El Loft
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1468195.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w400/m6bIdi1u4wq5axdW7gKhga5envh.jpg" ,La Habitación
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1590853.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w400/pJzXKemww4Hbs1LvYS235CjVZ1V.jpg" ,Al filo del peligro
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1606696.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6L1ciqLE0V9Q4l2N24lchXIYR.jpg" ,Los otros 
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/103543.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neHrQLVfT3KPqvv30pNPyRb6chQ.jpg" ,Memento 
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1650932.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmoypdRU7rCJZZrZFKGirONbgrI.jpg" ,Zodiac 
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1652298.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xBYpcEHJzu5vmXmdDmySZ9herF.jpg" ,La niebla
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1427569.mkv
 
 
 #EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://iili.io/qS9C6J4.jpg",Una amistad Un Asesinato S01 E01
