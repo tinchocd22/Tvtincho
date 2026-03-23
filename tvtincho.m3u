@@ -164,6 +164,8 @@ http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/505146.mp4
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/514013.mp4
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="http://redworld.pro:8880/images/57a0f2b52b75688b03267330e6072b3d.jpg",Una noche en el Roxbury
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/263418.mkv
+#EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Hy8k6ZfZiY08PfTI0vvmQFS0lq.jpg" ,La caja
+http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1644667.mkv
 
 
 #EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://iili.io/qS9C6J4.jpg",Una amistad Un Asesinato S01 E01
@@ -1520,6 +1522,9 @@ http://dplatino.net:80//live/Cotes737hdff/737373vevrv/403686.ts
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://iili.io/qopF7sf.png",Los Simpson
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178834
+
+#EXTINF:-1 tvg-id="Casados con Hijos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/432bV5D7aj7ACReG42bPNPeTEVr.jpg",Casados con Hijos
+http://tvpremium.pro:8080/ArabiaVidaure@/Arabia2023/769176
 
 #EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio
 http://liontv.es:8080/Julio2003/Julio2003/770547
