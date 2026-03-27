@@ -563,10 +563,6 @@ http://planettvweb.com:8091/series/GiovaniT/ABet7904d/145747.mkv
 http://planettvweb.com:8091/series/GiovaniT/ABet7904d/146624.mkv
 #EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IQiSqUIrzLWZxGYWI1ytAZ1CY9.jpg" ,El infiltrado S02 E05
 http://planettvweb.com:8091/series/GiovaniT/ABet7904d/146625.mkv
-#EXTINF:-1 type="serie" group-title="Drama" tvg-logo="https://iili.io/qPqwl6J.jpg" ,La Doña S01 E01
-http://192.168.0.100:8000/ladona/ladonaS01E01.mp4
-#EXTINF:-1 type="serie" group-title="Drama" tvg-logo="https://iili.io/qPqwl6J.jpg" ,La Doña S01 E02
-http://192.168.0.100:8000/ladona/ladonaS01E02.mp4
 #EXTINF:-1 type="serie" group-title="Drama" tvg-logo="https://iili.io/qvbxEdb.jpg" ,El misterio de Cemetery Road S01 E01
 http://planettvweb.com:8091/series/GiovaniT/ABet7904d/144543.mkv
 #EXTINF:-1 type="serie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8iywSpvOhEzh03SIJXbkmyhrvW.jpg" ,El misterio de Cemetery Road S01 E02
@@ -1611,7 +1607,7 @@ http://planettvweb.com:8091/series/GiovaniT/ABet7904d/146259.mkv
 #EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11840
 #EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
 #EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,Telefe 
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164870 
 #EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,Telefe 
@@ -1620,7 +1616,7 @@ http://liontv.es:8080/Julio2003/Julio2003/834976
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11862
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece 
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157591
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157567
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece 
 http://liontv.es:8080/Julio2003/Julio2003/334375
 
@@ -1629,14 +1625,14 @@ http://planettvweb.com:8091/GiovaniT/ABet7904d/11859
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",El Nueve 
 http://matrivagoweb.xyz:8080/ANT116/123456/51590
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve
-http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164869
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157621
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122339
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11866
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV 
-http://liontv.es:8080/Julio2003/Julio2003/1164
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157622
 
 #EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://iili.io/qomDpp4.png", Gran Hermano
 http://planettvweb.com:8091/GiovaniT/ABet7904d/116384
@@ -1681,7 +1677,7 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9550
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
 http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122345
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157562
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11873
@@ -1693,19 +1689,19 @@ http://lunar.pm:8080/2055735047/PtuUrexwIC/122394
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/12755
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9522
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157558
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122342
 
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11996
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122343
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157559
 
 #EXTINF:-1 tvg-id="Espn 3" tvg-logo="https://iili.io/qopagTu.png",Espn 3 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11915
 #EXTINF:-1 tvg-id="Espn 3" tvg-logo="https://iili.io/qopagTu.png",Espn 3
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122344
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157560
 
 #EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://iili.io/qop0tvS.png",Espn 4
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11698
@@ -1751,59 +1747,63 @@ http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/156164
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11808
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
-http://revipeofercmv.top:8080/VIP0117170990623855/cef92fdc97b2/4774
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9666
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122359
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11650
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://iili.io/qopt1p4.png",HBO 2 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122360
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9671
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://iili.io/qopt1p4.png",HBO 2
 http://revipeofercmv.top:8080/VIP0117170990623855/cef92fdc97b2/4775
 
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://iili.io/qoppQfI.png",HBO Plus
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11646
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://iili.io/qoppQfI.png",HBO Plus 
-http://177.10.184.193:8000/play/a031/index.m3u8
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9686
 
 #EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://iili.io/qoyJ42I.png",HBO Pop
 http://planettvweb.com:8091/GiovaniT/ABet7904d/26319
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://iili.io/qoyJ42I.png",HBO Pop
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9689
 
 #EXTINF:-1 tvg-id="HBO Extreme" tvg-logo="https://iili.io/qoy2pe9.png",HBO Extreme 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/26321
 #EXTINF:-1 tvg-id="HBO Extreme" tvg-logo="https://iili.io/qoy2pe9.png",HBO Extreme
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122364
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9697
 
 #EXTINF:-1 tvg-id="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11633
 EXTINF:-1 tvg-id="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony 
-http://207.246.114.254:25461/live/gabysports/gabysports/3387.m3u8
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9712
 
 #EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",Sony Movie
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11829
 #EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",Sony Movie 
-http://207.246.114.254:25461/live/gabysports/gabysports/3388.m3u8
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9713
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11668
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT 
-http://207.246.114.254:25461/live/gabysports/gabysports/3395.m3u8
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9742
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg",Universal Studio
-http://planettvweb.com:8091/GiovaniT/ABet7904d/11627
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9753
 #EXTINF:-1 tvg-id="WARNER CH" tvg-logo="https://cine3-media.s3-accelerate.amazonaws.com/2013/03/warner.jpg",WARNER CH  
-http://planettvweb.com:8091/GiovaniT/ABet7904d/11621
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9774
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg",CINECANAL 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11660
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg",CINEMAX 
-http://planettvweb.com:8091/GiovaniT/ABet7904d/11672
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9633
 #EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg",GOLDEN 
-http://planettvweb.com:8091/GiovaniT/ABet7904d/11705
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9657
+#EXTINF:-1 tvg-id="GOLDEN Edge" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png",GOLDEN Edge
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9658
 
 
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
-http://207.246.114.254:25461/live/gabysports/gabysports/3165.m3u8
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157577
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias 
 http://207.246.114.254:25461/live/gabysports/gabysports/3394.m3u8
 
@@ -1813,12 +1813,12 @@ http://138.121.114.91:8000/play/a05u/index.m3u8
 http://207.246.114.254:25461/live/gabysports/gabysports/3089.m3u8
 
 #EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",La Nacion
-http://207.246.114.254:25461/live/gabysports/gabysports/3377.m3u8
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157593
 #EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",La Nacion 
 http://207.246.114.254:25461/live/gabysports/gabysports/3143.m3u8
 
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cr%C3%B3nica-logo.svg/960px-Cr%C3%B3nica-logo.svg.png",Cronica TV 
-http://207.246.114.254:25461/live/gabysports/gabysports/3105.m3u8
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157572
 
 
 
