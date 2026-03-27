@@ -1603,8 +1603,6 @@ http://planettvweb.com:8091/series/GiovaniT/ABet7904d/145626.mkv
 http://planettvweb.com:8091/series/GiovaniT/ABet7904d/145837.mkv
 #EXTINF:-1 type="serie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w300/yz5sF9LRnUv2PqRvrqYPklXZ0pv.jpg" ,Landman S02 E10
 http://planettvweb.com:8091/series/GiovaniT/ABet7904d/146259.mkv
-#EXTINF:-1 type="serie" group-title="Drama" tvg-logo="https://iili.io/qDupd67.jpg" ,La Doña S01 SE01
-http://192.168.0.100:8000/ladona/La.Doña.S01E01.540p.x265.AAC.[9jaRocks.Com].mkv
 
 
 #EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
