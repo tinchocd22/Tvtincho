@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/31f0548f94af3efe3ffa8acaf3cad896.jpg" ,Lindas y Letales
+http://rlatinop.com:8880/movie/5yBTt8eKbuf4/8yDeg2uwMAUu/520819.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cA8tHo8TpGF3SsO2KGWgKZm6l.jpg" ,Mike y Nick y Nick y Alice
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147962.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXZZtyzuTX3KMfSLssCR6J0mODd.jpg" ,Ayuda
@@ -1881,36 +1883,68 @@ http://tvhomesmart.xyz:8080/series/luis0708/92w7shx47/248343.mp4
 http://tvhomesmart.xyz:8080/series/luis0708/92w7shx47/248344.mp4
 #EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylzzErGq2ziEnElIgG2iQVMYBsg.jpg" ,Dos hombres y medio S06 E24
 http://tvhomesmart.xyz:8080/series/luis0708/92w7shx47/248345.mp4
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://iili.io/BH7DLtj.jpg" ,The Madison S01 E01
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147963.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qcyJiBKt6Lr0qg0D0ez52vnGf2.jpg" ,The Madison S01 E02
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147964.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BLTZu266YujJZUNXkW0jpOIZw2.jpg" ,The Madison S01 E03
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147965.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wL3g0vCLPUb5JHpmcpI1RnzXoWA.jpg" ,The Madison S01 E04
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147966.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysEoZIOZqmHdAgv13pIVXjKlr0w.jpg" ,The Madison S01 E05
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147967.mkv
+#EXTINF:-1 type="serie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ct9GmO8Bg0SHxdxgCLqla69TmS.jpg" ,The Madison S01 E06
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147968.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://iili.io/BHYxAzv.jpg" ,Devil in Disguise: John Wayne Gacy S01 E01
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/142573.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIRvKMP8WSV3WicGUltag5H5Pws.jpg" ,Devil in Disguise: John Wayne Gacy S01 E02
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/142574.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hBFUNZt1tyTjlSfntt8sBVCOS6.jpg" ,Devil in Disguise: John Wayne Gacy S01 E03
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/142575.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVkZzMAUm0hTrtmhbeIPg7RP9g8.jpg" ,Devil in Disguise: John Wayne Gacy S01 E04
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/142576.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbJE9CnGOzfJCGBHuSjvu6sm6UA.jpg" ,Devil in Disguise: John Wayne Gacy S01 E05
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/142577.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0EOCABQU0xopcXVixMq3GU8NEs.jpg" ,Devil in Disguise: John Wayne Gacy S01 E06
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/142578.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVXxU91IixC3Xg7wsvfdIDvbJm7.jpg" ,Devil in Disguise: John Wayne Gacy S01 E07
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/142579.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JJAxTUMdWC9eaYs3wV36GKjFPD.jpg" ,Devil in Disguise: John Wayne Gacy S01 E08
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/142580.mkv
 
 
-#EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490458
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11840
-#EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
-#EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,Telefe 
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE 
 http://tv.zapping.life:8080/9AhwRKcpLM/ee9fddb05151/157590
-#EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,Telefe 
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE 
 http://tvhomesmart.xyz:8080/luis0708/92w7shx47/53225
 
-#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+#EXTINF:-1 tvg-id="EL TRECE" tvg-logo="https://files.catbox.moe/finwuj.png", EL TRECE
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490441
+#EXTINF:-1 tvg-id="EL TRECE" tvg-logo="https://files.catbox.moe/finwuj.png", EL TRECE
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11862
-#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece 
+#EXTINF:-1 tvg-id="EL TRECE" tvg-logo="https://files.catbox.moe/finwuj.png", EL TRECE 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157567
-#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece 
-http://liontv.es:8080/Julio2003/Julio2003/334375
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",El Nueve 
+#EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490472
+#EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11859
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",El Nueve 
+#EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE 
 http://matrivagoweb.xyz:8080/ANT116/123456/51590
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve
+#EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157621
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122339
 
-#EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV 
+#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://iili.io/qom6oTF.png", AMERICA TV 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490463
+#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://iili.io/qom6oTF.png", AMERICA TV 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11866
-#EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV 
+#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://iili.io/qom6oTF.png", AMERICA TV 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157622
 
 #EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://iili.io/qomDpp4.png", Gran Hermano
@@ -1965,44 +1999,47 @@ http://redworld.pro:8880/luis738049207/98756479239/327919
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122394
 
-#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
+#EXTINF:-1 tvg-id="ESPN 1" tvg-logo="https://iili.io/qopzTeR.png",ESPN 1 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/12755
-#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
+#EXTINF:-1 tvg-id="ESPN 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157558
-#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122342
+#EXTINF:-1 tvg-id="ESPN 1" tvg-logo="https://iili.io/qopzTeR.png",ESPN 1 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428654
 
-#EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/qopRJt4.png",ESPN 2 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428655
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/qopRJt4.png",ESPN 2 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11996
-#EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/qopRJt4.png",ESPN 2 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157559
 
-#EXTINF:-1 tvg-id="Espn 3" tvg-logo="https://iili.io/qopagTu.png",Espn 3 
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://iili.io/qopagTu.png",ESPN 3 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11915
-#EXTINF:-1 tvg-id="Espn 3" tvg-logo="https://iili.io/qopagTu.png",Espn 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://iili.io/qopagTu.png",ESPN 3
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157560
 
-#EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://iili.io/qop0tvS.png",Espn 4
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://iili.io/qop0tvS.png",ESPN 4
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11698
-#EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://iili.io/qop0tvS.png",Espn 4 
-http://207.246.114.254:25461/live/gabysports/gabysports/3352.m3u8
-#EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://iili.io/qop0tvS.png",Espn 4 
-http://207.246.114.254:25461/live/gabysports/gabysports/3119.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://iili.io/qop0tvS.png",ESPN 4 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428657
 
-#EXTINF:-1 tvg-id="TyC Sport" tvg-logo="https://iili.io/qopV6rJ.png",TyC Sport
-http://planettvweb.com:8091/GiovaniT/ABet7904d/12040
-#EXTINF:-1 tvg-id="TyC Sport" tvg-logo="https://iili.io/qopV6rJ.png",TyC Sport 
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png",ESPN EXTRA 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/327917
+
+#EXTINF:-1 tvg-id="TyC SPORT" tvg-logo="https://iili.io/qopV6rJ.png",TyC SPORT
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/327918
+#EXTINF:-1 tvg-id="TyC SPORT" tvg-logo="https://iili.io/qopV6rJ.png",TyC SPORT 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/20327
 
-#EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1 
+#EXTINF:-1 tvg-id="FOX SPORT 1" tvg-logo="https://iili.io/qopho5x.png",FOX SPORT 1 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11702
-#EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1
-http://138.121.114.91:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORT 1" tvg-logo="https://iili.io/qopho5x.png",FOX SPORT 1
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428662
 
-#EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://iili.io/qopwQWB.png",Fox Sport 2 
+#EXTINF:-1 tvg-id="FOX SPORT 2" tvg-logo="https://iili.io/qopwQWB.png",FOX SPORT 2 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/20328
-#EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://iili.io/qopwQWB.png",Fox Sport 2
-http://138.121.114.91:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORT 2" tvg-logo="https://iili.io/qopwQWB.png",FOX SPORT 2
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428663
 
 #EXTINF:-1 tvg-id="Dsport" tvg-logo="https://iili.io/qopkq0P.png",Dsport
 http://planettvweb.com:8091/GiovaniT/ABet7904d/12042
@@ -2084,20 +2121,18 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9658
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157577
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias 
-http://207.246.114.254:25461/live/gabysports/gabysports/3394.m3u8
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490457
 
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/500px-A24-logo.svg.png",A24
-http://138.121.114.91:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/500px-A24-logo.svg.png",A24 
-http://207.246.114.254:25461/live/gabysports/gabysports/3089.m3u8
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490446
 
+#EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",La Nacion 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490466
 #EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",La Nacion
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157593
-#EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",La Nacion 
-http://207.246.114.254:25461/live/gabysports/gabysports/3143.m3u8
 
-#EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cr%C3%B3nica-logo.svg/960px-Cr%C3%B3nica-logo.svg.png",Cronica TV 
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157572
+#EXTINF:-1 tvg-id="Cronica TV" tvg-logo="http://redworld.pro:8880/images/e6d86f0dd1f02038b3dd1311ed5f7639.jpeg",Cronica TV 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490473
 
 
 
