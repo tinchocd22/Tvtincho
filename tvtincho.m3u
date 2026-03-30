@@ -1914,9 +1914,9 @@ http://planettvweb.com:8091/series/GiovaniT/ABet7904d/142580.mkv
 
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
-http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490458
-#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11840
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490458
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE 
@@ -1925,25 +1925,23 @@ http://tv.zapping.life:8080/9AhwRKcpLM/ee9fddb05151/157590
 http://tvhomesmart.xyz:8080/luis0708/92w7shx47/53225
 
 #EXTINF:-1 tvg-id="EL TRECE" tvg-logo="https://files.catbox.moe/finwuj.png", EL TRECE
-http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490441
-#EXTINF:-1 tvg-id="EL TRECE" tvg-logo="https://files.catbox.moe/finwuj.png", EL TRECE
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11862
+#EXTINF:-1 tvg-id="EL TRECE" tvg-logo="https://files.catbox.moe/finwuj.png", EL TRECE
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490441
 #EXTINF:-1 tvg-id="EL TRECE" tvg-logo="https://files.catbox.moe/finwuj.png", EL TRECE 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157567
 
 #EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE 
-http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490472
-#EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11859
 #EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE 
-http://matrivagoweb.xyz:8080/ANT116/123456/51590
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490472
 #EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157621
 
 #EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://iili.io/qom6oTF.png", AMERICA TV 
-http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490463
-#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://iili.io/qom6oTF.png", AMERICA TV 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11866
+#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://iili.io/qom6oTF.png", AMERICA TV 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490463
 #EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://iili.io/qom6oTF.png", AMERICA TV 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157622
 
@@ -2007,9 +2005,9 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157558
 http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428654
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/qopRJt4.png",ESPN 2 
-http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428655
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/qopRJt4.png",ESPN 2 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11996
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/qopRJt4.png",ESPN 2 
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428655
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/qopRJt4.png",ESPN 2 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157559
 
@@ -2023,13 +2021,10 @@ http://planettvweb.com:8091/GiovaniT/ABet7904d/11698
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://iili.io/qop0tvS.png",ESPN 4 
 http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428657
 
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png",ESPN EXTRA 
-http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/327917
-
-#EXTINF:-1 tvg-id="TyC SPORT" tvg-logo="https://iili.io/qopV6rJ.png",TyC SPORT
-http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/327918
 #EXTINF:-1 tvg-id="TyC SPORT" tvg-logo="https://iili.io/qopV6rJ.png",TyC SPORT 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/20327
+#EXTINF:-1 tvg-id="TyC SPORT" tvg-logo="https://iili.io/qopV6rJ.png",TyC SPORT
+http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/327918
 
 #EXTINF:-1 tvg-id="FOX SPORT 1" tvg-logo="https://iili.io/qopho5x.png",FOX SPORT 1 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11702
@@ -2063,11 +2058,10 @@ http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/156164
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11808
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9666
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
-http://lunar.pm:8080/2055735047/PtuUrexwIC/122359
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11650
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9666
+
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://iili.io/qopt1p4.png",HBO 2 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9671
