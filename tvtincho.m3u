@@ -1920,7 +1920,7 @@ http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490458
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE 
-http://tv.zapping.life:8080/9AhwRKcpLM/ee9fddb05151/157590
+http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE 
 http://tvhomesmart.xyz:8080/luis0708/92w7shx47/53225
 
@@ -1937,6 +1937,8 @@ http://planettvweb.com:8091/GiovaniT/ABet7904d/11859
 http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490472
 #EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157621
+#EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",EL NUEVE
+http://181.13.252.102:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://iili.io/qom6oTF.png", AMERICA TV 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11866
