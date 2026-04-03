@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://mx.web.img3.acsta.net/img/07/a2/07a223b3acccdfaea161458b98e9fd23.jpg" ,Proyecto Fin del Mundo
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/148053.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/31f0548f94af3efe3ffa8acaf3cad896.jpg" ,Lindas y Letales
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147961.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cA8tHo8TpGF3SsO2KGWgKZm6l.jpg" ,Mike y Nick y Nick y Alice
@@ -69,7 +71,7 @@ http://ultrax.online:8080/movie/997791182tv/ph537l/249298.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/qeiapp.jpg",Contracara
 http://ultrax.online:8080/movie/997791182tv/ph537l/71459.mp4
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/4150764cbf988dc351763623ef948e63.jpg",Rescatando al soldado Ryan
-http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298231.mkv
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/254373.mp4
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="http://redworld.pro:8880/images/b6489ff9c555e33456d24d28bf260b76.jpg",Máxima velocidad
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298232.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoy8Qnf.jpg",Mentiroso Mentiroso
@@ -79,15 +81,17 @@ http://ultrax.online:8080/movie/997791182tv/ph537l/4176.mkv
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/21f41e754e0cb63c9e1f186fa60c8b1d.jpg",Titanic
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298234.mp4
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/5d78a7061c309828c967c675555c29da.jpg",Apolo 13
-http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/298207.mp4
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/3746.mkv
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg" ,Piratas del Caribe: La maldicion de la Perla Negra
 http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1374238.mkv
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/473105ca08ed2a8f14da074b3beb2a23.jpg" ,Indiana Jones: En busca del Arca Perdida 
 http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/267274.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UrznkPL4Y2f66zkoFAiSwfAYtE.jpg" ,Indiana Jones 2 El templo de la perdición
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/3909.mkv
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/58adc7cdc9f6806a34d9f2b30b4a3949.jpg" ,Indiana Jones 3: La Última Cruzada 
-http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/267277.mkv
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/3910.mkv
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="http://redworld.pro:8880/images/35ecf456a6c7c2199b9fa7f6bce42ad4.jpg" ,Indiana Jones 4: El reino de la Calavera de Cristal 
-http://redworld.pro:8880/movie/PebRnV87MJhn/XPgex4XmutJe/267275.mkv
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/3908.mkv
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg" ,Piratas del Caribe: En el Fin del Mundo 
 http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/4034.mkv
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egrTG3M5KhO5E6nfgGLtUYeuERn.jpg" ,Regreso al futuro 
@@ -2499,7 +2503,7 @@ http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428663
 
 #EXTINF:-1 tvg-id="Dsport" tvg-logo="https://iili.io/BCY102p.png",Dsport 
 http://www.radic.vip:8080/54bahu98de366sa88/58wumu473muwu85/466
-#EXTINF:-1 tvg-id="Dsport" tvg-logo="https://iili.io/BCYR8Ft.png",Dsport 2
+#EXTINF:-1 tvg-id="Dsport 2" tvg-logo="https://iili.io/BCYR8Ft.png",Dsport 2
 http://planettvweb.com:8091/GiovaniT/ABet7904d/12042
 #EXTINF:-1 tvg-id="Dsport +" tvg-logo="https://iili.io/qopSTzb.png",Dsport +
 http://www.radic.vip:8080/54bahu98de366sa88/58wumu473muwu85/468
