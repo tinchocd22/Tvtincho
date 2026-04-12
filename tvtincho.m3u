@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osYy4GDE4nr69MGTJxRaZlqU82S.jpg" ,Embestida
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/148182.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://mx.web.img3.acsta.net/img/07/a2/07a223b3acccdfaea161458b98e9fd23.jpg" ,Proyecto Fin del Mundo
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/148053.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://redworld.pro:8880/images/31f0548f94af3efe3ffa8acaf3cad896.jpg" ,Lindas y Letales
@@ -2528,6 +2530,8 @@ http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157562
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
+http://planettvweb.com:8091/GiovaniT/ABet7904d/12004
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11873
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://redworld.pro:8880/luis738049207/98756479239/327919
@@ -2535,7 +2539,7 @@ http://redworld.pro:8880/luis738049207/98756479239/327919
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122394
 
 #EXTINF:-1 tvg-id="ESPN 1" tvg-logo="https://iili.io/qopzTeR.png",ESPN 1 
-http://planettvweb.com:8091/GiovaniT/ABet7904d/12755
+http://planettvweb.com:8091/GiovaniT/ABet7904d/20324
 #EXTINF:-1 tvg-id="ESPN 1" tvg-logo="https://iili.io/qopzTeR.png",ESPN 1 
 http://www.radic.vip:8080/54bahu98de366sa88/58wumu473muwu85/520
 #EXTINF:-1 tvg-id="ESPN 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
