@@ -30,6 +30,8 @@ http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147762.mkv
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147763.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://iili.io/qoynoaj.jpg",Fin del Mundo 2
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/B8dNEKJ.jpg",Vacaciones de Navidad
+http://tvdir.lat:8080/movie/982260958a/peru2023/179646.mp4
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxGoMGwxXyixPq9nBM5R6WRYElM.jpg",Cuidado Bebe Suelto!
 http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/280241.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tC41P9gWYBiLPyqwFjpIAFYgGnu.jpg",Irene Yo y mi otro Yo
@@ -280,6 +282,26 @@ http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1650932.mkv
 http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1652298.mkv
 #EXTINF:-1 type="movie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xBYpcEHJzu5vmXmdDmySZ9herF.jpg" ,La niebla
 http://tvpremium.pro:8080/movie/ArabiaVidaure@/Arabia2023/1427569.mkv
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B8dyJ8x.jpg" ,Christmas All Over Again
+http://tvdir.lat:8080/movie/982260958a/peru2023/382533.mp4
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B82AjFs.jpg" ,Christmas at Castle Hart
+http://tvdir.lat:8080/movie/982260958a/peru2023/306214.mp4
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B820pat.jpg" ,christmas at grand valley
+http://tvdir.lat:8080/movie/982260958a/peru2023/386118.mp4
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B82N82j.jpg" ,Christmas Belle
+http://tvdir.lat:8080/movie/982260958a/peru2023/382535.mp4
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B82S7I4.jpg" ,christmas cookies
+http://tvdir.lat:8080/movie/982260958a/peru2023/386120.mp4
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B82LxEv.jpg" ,Christmas in Homestead
+http://tvdir.lat:8080/movie/982260958a/peru2023/382538.mp4
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B8dyJ8x.jpg" ,Christmas in Rome
+http://tvdir.lat:8080/movie/982260958a/peru2023/386123.mp4
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B82AjFs.jpg" ,Christmas Land
+http://tvdir.lat:8080/movie/982260958a/peru2023/386124.mp4
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B820pat.jpg" ,christmas wedding planner
+http://tvdir.lat:8080/movie/982260958a/peru2023/386125.mp4
+#EXTINF:-1 type="movie" group-title="Navidad Maria" tvg-logo="https://iili.io/B820pat.jpg" ,christmas with a view
+http://tvdir.lat:8080/movie/982260958a/peru2023/386126.mp4
 
 #EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="https://iili.io/q6y1O7I.jpg" ,Terapia sin filtro S01 E01
 http://planettvweb.com:8091/series/GiovaniT/ABet7904d/147347.mkv
@@ -2510,12 +2532,12 @@ http://planettvweb.com:8091/GiovaniT/ABet7904d/11868
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11868
 
 #EXTINF:-1 tvg-id="Friends" tvg-logo="https://iili.io/qomypK7.png",Friends 
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166086
+http://tvdir.lat:8080/live/982260958a/peru2023/5568.ts
 #EXTINF:-1 tvg-id="Friends" tvg-logo="https://iili.io/qomypK7.png",Friends
 http://ultrax.online:8080/997666249tv/hypxsw64/250548
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://iili.io/qopF7sf.png",Los Simpson
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178834
+http://tvdir.lat:8080/live/982260958a/peru2023/360495.ts
 
 #EXTINF:-1 tvg-id="Casados con Hijos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/432bV5D7aj7ACReG42bPNPeTEVr.jpg",Casados con Hijos
 http://tvpremium.pro:8080/ArabiaVidaure@/Arabia2023/769176
@@ -2592,8 +2614,14 @@ http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428663
 
 #EXTINF:-1 tvg-id="Dsport" tvg-logo="https://iili.io/BCY102p.png",Dsport 
 http://www.radic.vip:8080/54bahu98de366sa88/58wumu473muwu85/466
+#EXTINF:-1 tvg-id="Dsport" tvg-logo="https://iili.io/BCY102p.png",Dsport 
+http://tvdir.lat:8080/live/982260958a/peru2023/3470.ts
+#EXTINF:-1 tvg-id="Dsport 2" tvg-logo="https://iili.io/BCYR8Ft.png",Dsport 2
+http://tvdir.lat:8080/live/982260958a/peru2023/132104.ts
 #EXTINF:-1 tvg-id="Dsport 2" tvg-logo="https://iili.io/BCYR8Ft.png",Dsport 2
 http://planettvweb.com:8091/GiovaniT/ABet7904d/12042
+#EXTINF:-1 tvg-id="Dsport +" tvg-logo="https://iili.io/qopSTzb.png",Dsport +
+http://tvdir.lat:8080/live/982260958a/peru2023/401043.ts
 #EXTINF:-1 tvg-id="Dsport +" tvg-logo="https://iili.io/qopSTzb.png",Dsport +
 http://www.radic.vip:8080/54bahu98de366sa88/58wumu473muwu85/468
 #EXTINF:-1 tvg-id="Dsport +" tvg-logo="https://iili.io/qopSTzb.png",Dsport +
@@ -2608,9 +2636,9 @@ http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/156164
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11808
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
-http://planettvweb.com:8091/GiovaniT/ABet7904d/11650
+http://tvdir.lat:8080/live/982260958a/peru2023/3396.ts
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/qopQfwB.png",HBO
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9666
+http://planettvweb.com:8091/GiovaniT/ABet7904d/11650
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://iili.io/qopt1p4.png",HBO 2 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9671
