@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhhZDM4YmYtMmIxZS00YTBjLThmMzQtN2RlYTc1NjRlYWE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Sisu: Camino a la vengaza
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/144580.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osYy4GDE4nr69MGTJxRaZlqU82S.jpg" ,Embestida
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/148182.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://mx.web.img3.acsta.net/img/07/a2/07a223b3acccdfaea161458b98e9fd23.jpg" ,Proyecto Fin del Mundo
