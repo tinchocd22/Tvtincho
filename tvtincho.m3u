@@ -108,6 +108,8 @@ http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/270285.mp4
 http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/270284.mp4
 #EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAYdzYUUOWeXpnFY6QsE1T2ls1m.jpg" ,Náufrago 
 http://tvhomesmart.xyz:8080/movie/luis0708/92w7shx47/4924.mp4
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHLraZnPPAchPFQqbdZcNcNudKz.jpg",Enemigo Público
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/131314.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://iili.io/qoygaTX.jpg",Matrix
 http://ultrax.online:8080/movie/997791182tv/ph537l/249310.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mppbXmwNHddMmVCCdhxBzSgaVl.jpg",Depredador
@@ -138,8 +140,10 @@ http://tv.zapping.life:8080/movie/9AhwRKcpLM/ee9fddb05151/46243.mkv
 http://tv.zapping.life:8080/movie/9AhwRKcpLM/ee9fddb05151/46244.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" ,John Wick 3
 http://tv.zapping.life:8080/movie/9AhwRKcpLM/ee9fddb05151/46245.mkv
-#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" ,John Wick 4 IMAX
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" ,John Wick 4 
 http://tv.zapping.life:8080/movie/9AhwRKcpLM/ee9fddb05151/42336.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNjGUL9xygkDpQbT7khRey1E0cM.jpg" ,Estado de Sitio
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/131224.mkv
 #EXTINF:-1 type="movie" group-title="Drama" tvg-logo="http://redworld.pro:8880/images/c3957fe620bf083f6234a5171bb43d90.jpg",Ay, Hola
 http://rlatinop.com:8880/movie/5yBTt8eKbuf4/8yDeg2uwMAUu/464963.mp4
 #EXTINF:-1 type="movie" group-title="Drama" tvg-logo="http://redworld.pro:8880/images/62a1c95c96c1df0ccbe68908be1caedd.jpg",21 Blackjack
