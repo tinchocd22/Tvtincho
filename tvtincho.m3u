@@ -2640,6 +2640,13 @@ http://matrivagoweb.xyz:8080/5322637/123456/369754
 #EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png",Formula 1
 http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/156164
 
+#EXTINF:-1 tvg-id="Eventos Futbol" tvg-logo="https://iili.io/Bg8PaSt.png",Eventos Futbol
+http://flashrevliga.com:8880/live/23jessicamagri/tj1b9sfx/339810.m3u8
+#EXTINF:-1 tvg-id="Eventos Futbol" tvg-logo="https://iili.io/Bg8PaSt.png",Eventos Futbol
+http://flashrevliga.com:8880/live/23jessicamagri/tj1b9sfx/339795.m3u8
+#EXTINF:-1 tvg-id="Eventos Futbol" tvg-logo="https://iili.io/Bg8PaSt.png",Eventos Futbol
+http://flashrevliga.com:8880/live/23jessicamagri/tj1b9sfx/339669.m3u8
+
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://iili.io/qopiEcx.png",History Channel
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11808
 
