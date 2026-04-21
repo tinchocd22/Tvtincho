@@ -2590,8 +2590,8 @@ http://planettvweb.com:8091/GiovaniT/ABet7904d/11698
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://iili.io/qop0tvS.png",ESPN 4 
 http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/428657
 
-#EXTINF:-1 tvg-id="TyC SPORT" tvg-logo="https://iili.io/qopV6rJ.png",TyC SPORT 
-http://tvdir.lat:8080/live/982260958a/peru2023/5736.ts
+#EXTINF:-1 tvg-id="TyC SPORT" tvg-logo="https://iili.io/qopV6rJ.png",TyC SPORT
+http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 #EXTINF:-1 tvg-id="TyC SPORT" tvg-logo="https://iili.io/qopV6rJ.png",TyC SPORT
 http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/327918
 
@@ -2618,13 +2618,6 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 http://matrivagoweb.xyz:8080/5322637/123456/369754
 #EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png",Formula 1
 http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/156164
-
-#EXTINF:-1 tvg-id="Eventos Futbol" tvg-logo="https://iili.io/Bg8PaSt.png",Eventos Futbol
-http://flashrevliga.com:8880/live/23jessicamagri/tj1b9sfx/339810.m3u8
-#EXTINF:-1 tvg-id="Eventos Futbol" tvg-logo="https://iili.io/Bg8PaSt.png",Eventos Futbol
-http://flashrevliga.com:8880/live/23jessicamagri/tj1b9sfx/339795.m3u8
-#EXTINF:-1 tvg-id="Eventos Futbol" tvg-logo="https://iili.io/Bg8PaSt.png",Eventos Futbol
-http://flashrevliga.com:8880/live/23jessicamagri/tj1b9sfx/339669.m3u8
 
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://iili.io/qopiEcx.png",History Channel
 http://planettvweb.com:8091/GiovaniT/ABet7904d/11808
@@ -2698,6 +2691,8 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157593
 
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="http://redworld.pro:8880/images/e6d86f0dd1f02038b3dd1311ed5f7639.jpeg",Cronica TV 
 http://rlatinop.com:8880/5yBTt8eKbuf4/8yDeg2uwMAUu/490473
+#EXTINF:-1 tvg-id="Cronica TV" tvg-logo="http://redworld.pro:8880/images/e6d86f0dd1f02038b3dd1311ed5f7639.jpeg",Cronica TV 
+http://181.13.252.102:8000/play/a01q/index.m3u8?hls
 
 
 
