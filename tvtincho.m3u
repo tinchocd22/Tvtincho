@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg" ,Gary
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/149233.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg" ,Michael
 http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/148931.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/img/07/53/075396f89dd8002a3d0932f39b961452.jpg" ,El diablo viste a la moda 2
@@ -3279,6 +3281,46 @@ http://www.radic.vip:8080/series/54bahu98de366sa88/58wumu473muwu85/50412.mp4
 http://www.radic.vip:8080/series/54bahu98de366sa88/58wumu473muwu85/50413.mp4
 #EXTINF:-1 type="serie" group-title="Comedia" tvg-logo="https://pics.filmaffinity.com/Los_tres_chiflados_Serie_de_TV-358012845-large.jpg" ,Los Tres Chiflados S01 E125
 http://www.radic.vip:8080/series/54bahu98de366sa88/58wumu473muwu85/50414.mp4
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://iili.io/BtgxRBR.jpg" ,Silo S01 E01
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/74797.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg" ,Silo S01 E02
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/74798.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hQB4jxk9ydj55Mrl9sY95smV7.jpg" ,Silo S01 E03
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/74799.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg" ,Silo S01 E04
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/74800.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg" ,Silo S01 E05
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/74801.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg" ,Silo S01 E06
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/74802.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg" ,Silo S01 E07
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/74803.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZaeOvZYS4evALQtm2wfC3eJxit.jpg" ,Silo S01 E08
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/74804.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w300/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg" ,Silo S01 E09
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/78921.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w300/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg" ,Silo S01 E10
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/79049.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg" ,Silo S02 E01
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125375.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg" ,Silo S02 E02
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125376.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dY1nJnRuuhC0stZqNWShBYqk93H.jpg" ,Silo S02 E03
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125377.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg" ,Silo S02 E04
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125378.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg" ,Silo S02 E05
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125379.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAPo83kOC5mfgcOado49ijWITVo.jpg" ,Silo S02 E06
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125380.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg" ,Silo S02 E07
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125381.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg" ,Silo S02 E08
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125382.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNgT4AEffmGwiabRD03riCz1aWr.jpg" ,Silo S02 E09
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125383.mkv
+#EXTINF:-1 type="serie" group-title="Suspenso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg" ,Silo S02 E10
+http://planettvweb.com:8091/series/GiovaniT/ABet7904d/125384.mkv
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
 http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712714.ts
